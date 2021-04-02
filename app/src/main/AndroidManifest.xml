@@ -12,9 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Stalkerogm"
         android:usesCleartextTraffic="true">
-
-
-        <activity android:name=".Meny"></activity>
+        <activity android:name=".new_act"></activity>
+        <activity android:name=".Meny" />
         <activity android:name=".Regist" />
         <activity android:name=".SignInActivity" />
         <activity android:name=".MainActivity">
