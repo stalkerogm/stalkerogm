@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/vector"
+        android:title="qw1"/>
+    <item
+        android:icon="@drawable/vector_chel"
+        android:title="qw2"/>
+    <item
+        android:icon="@drawable/vector_okna"
+        android:title="qw3"/>
+    <item
+        android:icon="@drawable/vector_zvezda"
+        android:title="qw4"/>
+</menu>
